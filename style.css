@@ -68,12 +68,12 @@ section p {
 }
 
 section a:link, section a:visited {
-  border-bottom: 1px solid #0039a5;
+  border-bottom: 1px solid #1a1a1a;
 ;
 }
 
 section a:hover {
-  border-bottom: 1px solid #f08686;
+  border-bottom: 1px solid #1a1a1a;
 }
 
 footer li {
