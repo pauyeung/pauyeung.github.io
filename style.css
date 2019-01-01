@@ -10,10 +10,9 @@
 }
 
 html {
-/*  font-family: "Fira Sans";*/
-  font-family: "Work Sans";
-  font-size: 20px;
-  color: #0039a5;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 24px;
+  color: #1a1a1a;
   height: 100%;
 }
 
@@ -33,7 +32,6 @@ body {
   margin: auto;
   max-width: 700px;
   padding: 50px;
-/*  border: 10px solid #0039a5;*/
 }
 
 ul {
